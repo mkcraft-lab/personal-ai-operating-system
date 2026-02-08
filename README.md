@@ -1,11 +1,11 @@
 # Personal AI Operating System
 
-Designing AI-assisted systems to externalize cognition and optimize daily operations.
+Designing AI-assisted systems to externalize thinking and optimize daily operations.
 
 ## Overview
-This project demonstrates how I design and operate a personal AI-assisted "Operating System" to structure daily life, learning, and decision-making through logging, automation, and data-driven workflows.
+This project demonstrates how I design and operate a personal AI-assisted "Operating System" to structure daily life, learning, and decision-making through logging, structured workflows, and continuous improvement.
 
-Instead of relying on memory or intuition, I build repeatable mechanisms using AI, Python, and structured logs to create stable and predictable performance.
+Instead of relying on memory or intuition, I build repeatable mechanisms using AI and data-driven processes to create stable and predictable performance.
 
 ## Concept
 - Externalize thinking
@@ -18,18 +18,14 @@ Instead of relying on memory or intuition, I build repeatable mechanisms using A
 2. Behavior & Resource Control (inventory & consumption tracking)
 3. Cognitive Logging (daily logs & automatic summarization)
 4. Decision Simulation (scenario modeling & risk prediction)
-5. Automation & Tooling (Python scripts, CSV logs, KPI reports)
+5. Workflow Automation (repeatable processes & KPI tracking)
 
-## Technologies
-- Python
-- CSV logging
-- Workflow automation
-- AI-assisted planning
-- Systems design mindset
+## Focus
+- Systems design
+- Operations optimization (BizOps mindset)
+- Process structuring
+- Data logging
+- Reproducible workflows
 
 ## Purpose
-This repository is a portfolio artifact demonstrating:
-- Systems thinking
-- Operations optimization (BizOps mindset)
-- Process automation
-- Reproducible workflows
+This repository is a portfolio artifact demonstrating how ambiguous daily activities can be transformed into structured, measurable, and continuously improvable systems.

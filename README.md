@@ -1,31 +1,13 @@
-# Personal AI Operating System
-
-Designing AI-assisted systems to externalize thinking and optimize daily operations.
-
-## Overview
-This project demonstrates how I design and operate a personal AI-assisted "Operating System" to structure daily life, learning, and decision-making through logging, structured workflows, and continuous improvement.
-
-Instead of relying on memory or intuition, I build repeatable mechanisms using AI and data-driven processes to create stable and predictable performance.
-
-## Concept
-- Externalize thinking
-- Replace intuition with systems
-- Logging first
-- Continuous optimization
-
-## Architecture
-1. Scheduling Optimization (time estimation & reverse planning)
-2. Behavior & Resource Control (inventory & consumption tracking)
-3. Cognitive Logging (daily logs & automatic summarization)
-4. Decision Simulation (scenario modeling & risk prediction)
-5. Workflow Automation (repeatable processes & KPI tracking)
-
-## Focus
-- Systems design
-- Operations optimization (BizOps mindset)
-- Process structuring
-- Data logging
-- Reproducible workflows
-
-## Purpose
-This repository is a portfolio artifact demonstrating how ambiguous daily activities can be transformed into structured, measurable, and continuously improvable systems.
+​Title: Personal Cognitive Workflow Automation System (PCWAS)
+Subtitle: 意思決定プロセスとタスク管理の構造化・自動化フレームワーク
+​【Project Overview】
+個人の「記憶」や「直感」に依存する非効率な業務プロセスを、ログデータとAIによって「構造化」し、再現性を担保するための実験的システム設計。
+企業のBizOps（業務改善）における「属人性の排除」と「標準化」のロジックを、個人レベルのマイクロ・マネジメントに応用・実装したプロトタイプです。
+​【Core Concepts (BizOps Perspective)】
+​Process Externalization: 思考プロセスを外部メモリ（ログ）へ出力し、認知負荷を低減。
+​Data-Driven Decision Making: 蓄積された行動ログ（Audit Trail）に基づく意思決定シミュレーション。
+​Continuous Improvement (CI): 日次KPIによるPDCAサイクルの自動化。
+​【Tech Stack & Architecture】
+​Automated Reporting (Python)
+​Workflow Design
+​Risk Prediction Logic
